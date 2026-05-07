@@ -1,5 +1,13 @@
 # Folding Panorama Animation & Merry-go-round & CSS Ice-Cone
 
+## 📸 Preview
+
+![Merry Go Round](./screenshots/merry-go-round.png)
+![Folding Panorma Animation](./screenshots/panorma.png)
+![CSS Ice-Cone](./screenshots/css-ice-cone.png)
+![CSS Loader](./screenshots/css-loader.png)
+---
+
 A creative folding panorama animation built using pure HTML and CSS.  
 This project creates a smooth 3D folding visual effect using CSS transforms, perspective, and transition animations.
 
@@ -27,14 +35,6 @@ This project creates a smooth 3D carousel effect using CSS transforms, perspecti
 - HTML5
 - CSS3
 
----
-
-## 📸 Preview
-
-![Merry Go Round](./screenshots/merry-go-round.png)
-![Folding Panorma Animation](./screenshots/panorma.png)
-![CSS Ice-Cone](./screenshots/css-ice-cone.png)
-![CSS Loader](./screenshots/css-loader.png)
 ---
 
 ## 📂 Project Structure

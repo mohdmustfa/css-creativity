@@ -1,4 +1,4 @@
-# Folding Panorama Animation
+# Folding Panorama Animation & Merry-go-round
 
 A creative folding panorama animation built using pure HTML and CSS.  
 This project creates a smooth 3D folding visual effect using CSS transforms, perspective, and transition animations.
@@ -28,8 +28,8 @@ This project creates a smooth 3D carousel effect using CSS transforms, perspecti
 
 ## 📸 Preview
 
-![Merry Go Round](../../screenshots/merry-go-round.png)
-![Folding Panorma Animation](../../screenshots/panorma.png)
+![Merry Go Round](./screenshots/merry-go-round.png)
+![Folding Panorma Animation](./screenshots/panorma.png)
 ---
 
 ## 📂 Project Structure

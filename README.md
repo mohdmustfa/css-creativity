@@ -28,8 +28,8 @@ This project creates a smooth 3D carousel effect using CSS transforms, perspecti
 
 ## 📸 Preview
 
-![Merry Go Round](./screenshots/merry-go-round.png)
-![Folding Panorma Animation](./screenshots/panorma.png)
+![Merry Go Round](../../screenshots/merry-go-round.png)
+![Folding Panorma Animation](../../screenshots/panorma.png)
 ---
 
 ## 📂 Project Structure
